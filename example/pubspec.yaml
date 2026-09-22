@@ -1,0 +1,23 @@
+name: middle_click_autoscroll_example
+description: Demonstrates middle_click_autoscroll on vertical, horizontal, 2D, nested and controller-driven scrollables.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.9.0 <4.0.0"
+  flutter: ">=3.35.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  middle_click_autoscroll:
+    path: ../
+  web: ^1.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true

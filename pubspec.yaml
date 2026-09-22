@@ -1,0 +1,34 @@
+name: middle_click_autoscroll
+description: Middle-click autoscroll for Flutter desktop and web. Browser-style wheel-click scrolling with anchor indicator, cursors, nested scrollables and both axes.
+version: 0.1.0
+homepage: https://github.com/Manish1Pandey/middle_click_autoscroll
+repository: https://github.com/Manish1Pandey/middle_click_autoscroll
+issue_tracker: https://github.com/Manish1Pandey/middle_click_autoscroll/issues
+topics:
+  - scrolling
+  - mouse
+  - desktop
+  - web
+  - autoscroll
+
+environment:
+  sdk: ">=3.9.0 <4.0.0"
+  flutter: ">=3.35.0"
+
+platforms:
+  android:
+  ios:
+  linux:
+  macos:
+  web:
+  windows:
+
+dependencies:
+  flutter:
+    sdk: flutter
+  web: ^1.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
