@@ -1,3 +1,7 @@
+## 0.1.1
+
+* Documentation only: added a demo GIF showing middle-click autoscroll running in a browser. No code changes.
+
 ## 0.1.0
 
 * Initial release of `middle_click_autoscroll` (middle-click autoscroll for Flutter
