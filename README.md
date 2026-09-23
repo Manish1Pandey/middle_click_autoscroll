@@ -10,6 +10,10 @@ Flutter's scrollables do not do this on their own; this package fills the gap
 reported in [flutter/flutter#66537](https://github.com/flutter/flutter/issues/66537).
 It is pure Dart: no platform channels, no native code.
 
+![Middle-click autoscroll: the anchor indicator appears and the list scrolls while the pointer is held away from it](doc/demo.gif)
+
+*The web example: middle-click drops the anchor, moving the pointer away scrolls (faster the further you go), moving to the other side scrolls back, and a click stops it.*
+
 ## Features
 
 - Wraps any subtree: `ListView`, `GridView`, `CustomScrollView`,

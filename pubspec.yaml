@@ -11,6 +11,10 @@ topics:
   - web
   - autoscroll
 
+screenshots:
+  - description: "Animated: middle-click drops the anchor, moving the pointer away autoscrolls, a click stops it."
+    path: doc/demo.gif
+
 environment:
   sdk: ">=3.9.0 <4.0.0"
   flutter: ">=3.35.0"
