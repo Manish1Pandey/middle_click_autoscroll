@@ -41,7 +41,7 @@ It is pure Dart: no platform channels, no native code.
 
 ```yaml
 dependencies:
-  middle_click_autoscroll: ^0.1.0
+  middle_click_autoscroll: ^0.1.1
 ```
 
 ## Usage
