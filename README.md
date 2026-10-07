@@ -126,3 +126,9 @@ scroll and whether the autoscroll is latched.
 
 `example/` contains a desktop/web app with vertical, horizontal, 2D grid,
 nested and controller-driven tabs, and live controls for every option.
+
+## Links
+
+- **Documentation and live demo:** [flutterdev.in/packages/middle_click_autoscroll](https://flutterdev.in/packages/middle_click_autoscroll/)
+- **More Flutter packages:** [flutterdev.in](https://flutterdev.in)
+- **Learn data structures & algorithms in Dart:** [Algoistan](https://algoistan.flutterdev.in)
