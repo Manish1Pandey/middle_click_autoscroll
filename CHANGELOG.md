@@ -1,3 +1,7 @@
+## 0.1.2
+
+* Homepage and README now link to the package's documentation page on flutterdev.in. No code changes.
+
 ## 0.1.1
 
 * Documentation only: added a demo GIF showing middle-click autoscroll running in a browser. No code changes.
